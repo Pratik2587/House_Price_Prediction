@@ -16,5 +16,5 @@ Furthermore you can simply look at the notebook in the jupyter notebook file.
 ## 🤝 Contributing
 If you have a issue or you want to build it better, feel free to contribute to this project by making a simple pull request. :)
 
-## 🤠 Authors
+## 🤠 Author
 Pratik Patel
